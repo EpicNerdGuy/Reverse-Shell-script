@@ -1,5 +1,3 @@
-# Reverse-Shell-script
-
 # Reverse Shell Script
 
 A Python-based reverse shell script designed for educational and ethical hacking purposes. This project demonstrates the functionality of a reverse shell by providing both client and server components.
